@@ -1,7 +1,7 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/category/index", 
+    "pages/category/index",
     "pages/goods_list/index",
     "pages/goods_detail/index",
     "pages/cart/index",
@@ -12,14 +12,14 @@
     "pages/feedback/index",
     "pages/login/index",
     "pages/auth/index",
-    "pages/pay/index"
-    
+    "pages/pay/index",
+    "components/SearchInput/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#eb4450",
     "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle": "black"
+    "navigationBarTextStyle": "white"
   },
   "tabBar": {
     "list": [
@@ -51,7 +51,5 @@
     "color": "#666",
     "selectedColor": "#ff2d4a"
   },
-  
-    
   "sitemapLocation": "sitemap.json"
 }
